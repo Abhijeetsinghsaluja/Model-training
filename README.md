@@ -1,4 +1,4 @@
-# Model Training: Regression and Classification 🚀
+# Model Training: Regression and Classification 
 
 This repository showcases my practical experience with foundational machine learning algorithms. It contains two distinct projects demonstrating both regression and classification techniques, alongside model optimization and comparative analysis.
 
